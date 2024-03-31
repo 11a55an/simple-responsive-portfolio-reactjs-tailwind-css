@@ -13,7 +13,7 @@ function Header() {
 
         {/* Profile Image */}
         <div className="md:w-1/2 text-center">
-          <img src={profileImage} alt="Profile" className="w-32 h-32 md:w-48 md:h-auto md:mx-auto max-w-full" />
+          <img src={profileImage} alt="Profile" className="w-32 h-32 md:w-48 md:h-auto md:mx-auto max-w-full float-right" />
         </div>
       </header>
   )

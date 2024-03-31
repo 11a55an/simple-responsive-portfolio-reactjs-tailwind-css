@@ -24,7 +24,7 @@ function Navigation() {
           </li>
         </ul>
         <div>
-          <a href="#contact-me" className="hover:text-gray-300">Contact Me</a>
+          <a href="#footer" className="hover:text-gray-300">Contact Me</a>
         </div>
     </nav>
   )
